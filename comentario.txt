@@ -1,0 +1,8 @@
+	<form style='margin-bottom: 10px; font-family: Helvetica;'>
+            <fieldset style='background-color: steelblue; border: solid 2px black;'>
+                <legend style='background-color: aliceblue; border: 2px solid black;'>Jose Luis</legend>
+                <spam>Comentarios sin BD, solo con un archivo .txt</spam>
+            </fieldset>
+        </form>
+        <!-- finish coment -->
+    
